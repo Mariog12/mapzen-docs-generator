@@ -35,7 +35,7 @@ src-tangram:
 
 src-metro-extracts:
 	mkdir src-metro-extracts
-	curl -sL $(EXTRACTS) | tar -zxv -C src-metro-extracts --strip-components=2 metroextractor-cities-master/docs
+	curl -sL $(EXTRACTS) | tar -zxv -C src-metro-extracts --strip-components=2 --wildcards '*/docs/'
 
 src-vector-tiles:
 	mkdir src-vector-tiles
