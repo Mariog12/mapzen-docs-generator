@@ -39,6 +39,15 @@ pages:
     - 'JS Walkthrough': 'walkthrough.md'
     - 'JS Quickstart': 'tutorials/JSquickstart.md'
     - 'Android Walkthrough': 'android-walkthrough.md'
+    - 'Importing Styles': 'tutorials/imports.md'
+    - 'Leaflet Layers': 'tutorials/layers.md'
+    - 'Custom Data': 'tutorials/custom-data.md'
+    - 'Styling': 'tutorials/styling.md'
+    - 'Custom Graphics': 'tutorials/graphics.md'
+    - 'Shaders': 'tutorials/shaders.md'
+    - 'Advanced Styling': 'tutorials/advanced-styling.md'
+    - 'Data Visualization': 'tutorials/data-visualization.md'
+    - 'Advanced Shaders': 'tutorials/advanced-shaders.md'
     - 'Tips': 'tutorials/tips.md'
 
 # Determines if a broken link to a page within the documentation is considered
