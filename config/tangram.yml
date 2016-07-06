@@ -35,8 +35,6 @@ pages:
   - Demos & Examples:
     - 'Demos': 'Demos.md'
   - Tutorials:
-    - 'styles': 'styles.md'
-    - 'textures': 'textures.md'
     - 'Tutorials': 'tutorials/Tutorials.md'
     - 'JS Walkthrough': 'tutorials/walkthrough.md'
     - 'Android Walkthrough': 'tutorials/android-walkthrough.md'
