@@ -36,8 +36,8 @@ pages:
     - 'Demos': 'Demos.md'
   - Tutorials:
     - 'Tutorials': 'tutorials/Tutorials.md'
-    - 'JS Walkthrough': '../../walkthrough.md'
-    - 'Android Walkthrough': '../../android-walkthrough.md'
+    - 'JS Walkthrough': 'walkthrough.md'
+    - 'Android Walkthrough': 'android-walkthrough.md'
 
 # Determines if a broken link to a page within the documentation is considered
 # a warning or an error (link to a page not listed in the pages setting). Set
