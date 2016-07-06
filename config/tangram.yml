@@ -35,7 +35,11 @@ pages:
   - Demos & Examples:
     - 'Demos': 'Demos.md'
   - Tutorials:
+    - 'styles': 'styles.md'
+    - 'textures': 'textures.md'
     - 'Tutorials': 'tutorials/Tutorials.md'
+    - 'JS Walkthrough': 'tutorials/walkthrough.md'
+    - 'Android Walkthrough': 'tutorials/android-walkthrough.md'
 
 # Determines if a broken link to a page within the documentation is considered
 # a warning or an error (link to a page not listed in the pages setting). Set
