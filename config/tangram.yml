@@ -34,9 +34,8 @@ pages:
   - Android API: 'Android-API.md'
   - Demos & Examples:
     - 'Demos': 'Demos.md'
-    - 'JS Walkthrough': 'walkthrough.md'
-    - 'Android Walkthrough': 'android-walkthrough.md'
-
+  - Tutorials:
+    - 'Tutorials': 'tutorials/Tutorials.md'
 
 # Determines if a broken link to a page within the documentation is considered
 # a warning or an error (link to a page not listed in the pages setting). Set
